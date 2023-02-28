@@ -2,4 +2,5 @@ opencv-python==4.7.0.68
 ultralytics[YOLO]
 flask
 numpy
-
+gunicorn
+matplotlib
