@@ -16,4 +16,7 @@ the project is designed as follow:
 </ol>
 <img src="https://miro.medium.com/v2/resize:fit:4800/0*lCMq5uVmQkhV3UY_">
 
+<h3>References</h3>
+The yolov8 architecture is loaded from the following article: https://towardsdatascience.com/yolo-object-detection-with-opencv-and-python-21e50ac599e9
+
 
