@@ -14,6 +14,6 @@ the project is designed as follow:
 <li><b>runtime.txt:</b> It is to specify the python version to be used by Heroku cloud.</li>
 <li><b>.github:</b> This folder contains one folder called workflows with one yaml file. the main.yaml file maintain the secure connection between github and Heroku</li>
 </ol>
-
+<img src="https://miro.medium.com/v2/resize:fit:4800/0*lCMq5uVmQkhV3UY_">
 
 
