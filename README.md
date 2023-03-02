@@ -1,6 +1,9 @@
 <h1>ICIP Competition application</h1>
 
 This project creates a Docker container for an Flask application that is responsible for object detection in images. The application uses yolov8 trained on noisy COCO dataset. The dataset is provided by ICIP Conference Competition 2023. 
+<i>you can try it on the following <a href="https://cocoyolov8.herokuapp.com/">here</a></i>
+
+
 the project is designed as follow:
 <ol>
 <li><b>Static Folder:</b> This folder includes only one single folder called results and it is used to save the image with bounding boxes.</li>
