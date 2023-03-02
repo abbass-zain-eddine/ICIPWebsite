@@ -18,7 +18,7 @@ the project is designed as follow:
 <li><b>.github:</b> This folder contains one folder called workflows with one yaml file. the main.yaml file maintain the secure connection between github and Heroku</li>
 </ol>
 <h1>Example of output</h1>
-<img src="./static/ex1.pnCapture d’écran du 2023-03-02 16-19-26.png"><img src="./static/ex1.pnCapture d’écran du 2023-03-02 16-19-43.png">
+<img src="./static/results/ex1.pnCapture d’écran du 2023-03-02 16-19-26.png"><img src="./static/results/ex1.pnCapture d’écran du 2023-03-02 16-19-43.png">
 
 
 <img src="https://miro.medium.com/v2/resize:fit:4800/0*lCMq5uVmQkhV3UY_">
