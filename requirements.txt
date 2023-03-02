@@ -3,4 +3,6 @@ flask
 numpy
 gunicorn
 matplotlib
-onnxruntime==1.14.1
+onnx==1.7.0
+onnxruntime==1.5.2
+protobuf==3.13.0
