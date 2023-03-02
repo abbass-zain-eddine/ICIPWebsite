@@ -17,7 +17,7 @@ model_path="./yolov8/best.onnx"
 weights_path="./yolov8/best.pt"
 configuration_path="./yolov8/yolov8m.pt"
 model=onnxruntime.InferenceSession(model_path,None)
-model=YOLO(weights_path)
+#model=YOLO(weights_path)
 CLASSES=['person','bicycle','car','motorcycle','airplane','bus','train','truck','boat','traffic light','fire hydrant','street sign'\
          ,'stop sign','parking meter','bench','bird','cat','dog','horse','sheep','cow','elephant','bear','zebra','giraffe','hat',
 'backpack','umbrella','shoe','eye glasses','handbag','tie','suitcase','frisbee','skis','snowboard','sports ball','kite'\
